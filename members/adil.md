@@ -1,13 +1,28 @@
-# Hello, I'm Adil 👋
+# Hello Im **Adil** welcome in my Bio :wave
 
-## And I am part of group two
+![hyf](./img/adil.jpg)
 
-## They are my colleges
+## About me 📝
 
-- [Gultekin](./gultekin.md)
-- [Yana] (./yana.md)
-- [Agnieszka](./Agnieszka.md)
+## Im 31 years old and im from _Morocco_
 
-## what we do?
+## Studies 📚
 
--we are currently learning how to become frontend web developers 💻
+- Professional qualification as a mechanical operator
+
+## im actually learning html,ccs and javascript
+
+## Languages 👅
+
+- Arabic
+- Italian
+- French
+- English
+- Portuguese
+
+## Hobbies
+
+1. Basketball 🏀
+2. Travel 🛫
+3. Coding 💻
+4. learning languages 🌍
