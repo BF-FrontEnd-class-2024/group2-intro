@@ -1,7 +1,16 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo"]
-  "ignorePaths": ["Gultekin","Adil","Yana","Agnieszka", "adil.md"
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Gultekin",
+    "Adil",
+    "Yana",
+    "Agnieszka",
+    "adil.md"
+  ],
+  "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
