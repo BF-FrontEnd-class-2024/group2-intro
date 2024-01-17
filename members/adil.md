@@ -7,7 +7,7 @@
 - [Gultekin](./gultekin.md)
 - [Yana] (./yana.md)
 - [Agnieszka](./Agnieszka.md)
-  
+
 ## what we do?
 
 -we are currently learning how to become frontend web developers 💻
