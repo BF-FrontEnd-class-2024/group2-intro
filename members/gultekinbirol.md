@@ -4,7 +4,7 @@
 
 ## Quick Summary
 
-```
+```json
 {
   "firstName": "Gultekin",
   "lastName": "Birol",
@@ -12,8 +12,7 @@
   "hobbies": "Pixel perfect webdesign, Swimming, Deepdiving, Motocross",
   "age": "29",
   "from": "Turkey",
-  "livingIn": "Temse, Belgium",
-
+  "livingIn": "Temse, Belgium"
 }
 ```
 

@@ -1,6 +1,6 @@
 # Group 2 Intro
 
-## Hi we're group 2 👋
+## Hi we're group 2 🫡
 
 - [Gultekin](./members/gultekinbirol.md)
 - [Agnieszka](./members/agnieszka.md)
