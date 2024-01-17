@@ -1,6 +1,6 @@
 # Hello, I'm Adil 👋
 
-## Arnd I am part of group 2
+## And I am part of group 2
 
 ## They are my colleges
 
