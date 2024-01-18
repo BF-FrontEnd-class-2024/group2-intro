@@ -1,4 +1,4 @@
-# Hello Im **Adil** welcome in my Bio :wave
+# Hello Im **Adil** welcome in my Bio 👋
 
 ![hyf](./img/adil.jpg)
 
